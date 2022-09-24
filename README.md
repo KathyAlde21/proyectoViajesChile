@@ -1,2 +1,2 @@
-# proyecto Via jesChile
+# proyecto Viajes Chile
 trabajo front end
